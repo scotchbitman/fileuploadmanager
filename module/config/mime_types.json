@@ -1,0 +1,16 @@
+{
+	"pdf":"application/pdf",
+	"doc":"application/msword",
+	"docx":"application/msword",
+	"ppt":"application/msword",
+	"pptx":"application/vnd.ms-powerpoint",
+	"xls":"application/vnd.ms-excel",
+	"xlsx":"application/vnd.ms-excel",
+	"csv":"text/plain",
+	"zip":"applicaton/zip",
+	"rar":"application/x-rar",
+	"jpeg":"image/jpeg",
+	"jpg":"image/jpeg",
+	"gif":"image/gif",
+	"png":"image/png"
+}
